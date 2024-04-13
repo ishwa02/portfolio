@@ -5,7 +5,7 @@ module.exports = {
     title: 'Ishwa Paresh Anadani',
     description:
       'Ishwa is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences. She has researched deep into AI and Algorithms',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://google.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Ishwa Paresh Anadani',
-        short_name: 'Ishwa Paresh Anadani',
+        name: 'Brittany Chiang',
+        short_name: 'Brittany Chiang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
